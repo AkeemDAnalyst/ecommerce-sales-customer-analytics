@@ -1,0 +1,54 @@
+# 🛒 E-commerce Sales & Customer Analytics Project  
+
+## 📌 Overview  
+This is a **portfolio project** where I analyze an **E-commerce dataset** end-to-end using **SQL, Power BI, and GitHub**.  
+The project simulates real-world data analytics work from data cleaning, to analysis, to creating dashboards, and documenting insights.  
+
+
+## ⚙️ Tools & Technologies  
+- **SQL Server Management Studio (SSMS)** → Data cleaning & transformation  
+- **Power BI** → Visualization & dashboards  
+- **Draw.io** → Entity Relationship Diagram (ERD) & workflow design  
+- **GitHub** → Version control & portfolio showcase  
+- **Notion** → Project documentation & planning  
+
+
+## 📂 Project Workflow  
+1. **Planning & Documentation** → Project scope, dataset understanding, ERD  
+2. **Data Cleaning (SQL)** → Handle nulls, standardize categories, create clean views  
+3. **Analysis (SQL)** → Write queries to answer business questions  
+4. **Visualization (Power BI)** → Build interactive dashboards  
+5. **Project Packaging (GitHub + LinkedIn)** → Share results  
+
+
+## 🗂 Dataset  
+The dataset includes multiple tables:  
+- **Orders** → order status, purchase date, delivery date, etc.  
+- **Order Items** → products, sellers, prices, shipping costs  
+- **Customers** → customer location & demographics  
+- **Payments** → payment method, value, installments  
+- **Products** → product categories, dimensions, weight  
+
+
+## 📊 Business Questions  
+- What are the **monthly sales trends**?  
+- Which **product categories** sell the most?  
+- How accurate are **delivery estimates vs actual deliveries**?  
+- Which **payment methods** are most popular?  
+- What is the **customer retention rate**?  
+
+
+
+## 📐 Entity Relationship Diagram (ERD)  
+![ERD](docs/ERD.jpeg)  
+
+
+## 📌 Current Progress  
+✅ Phase 1: ERD completed  
+🔄 Next: Import dataset into SQL Server for cleaning  
+
+
+## 📢 Author  
+👤 Adegbola Akeem Ishola 
+- 🌐 LinkedIn: Adegbola Akeem Ishola 
+- 💻 GitHub: Adegbola Akeem Ishola 
