@@ -45,28 +45,25 @@ These are the key business questions this project answers:
 2. **Which product categories sell the most?**  
    → Identifies top-performing categories for better inventory planning.  
 
-3. **What is the average delivery time for delivered orders?**  
-   → Measures logistics efficiency and customer experience.  
-
-4. **Which payment methods are most popular?**  
+3. **Which payment methods are most popular?**  
    → Provides insight into customer preferences for payment options.  
 
-5. **What is the customer retention rate (repeat vs one-time customers)?**  
+4. **What is the customer retention rate (repeat vs one-time customers)?**  
    → Evaluates customer loyalty and business growth potential.  
 
-6. **What is the average order value (AOV)?**  
+5. **What is the average order value (AOV)?**  
    → Helps assess customer purchasing behavior.  
 
-7. **Which cities generate the most sales?**  
+6. **Which cities generate the most sales?**  
    → Supports regional marketing and expansion decisions.  
 
-8. **What is the distribution of order statuses?**  
+7. **What is the distribution of order statuses?**  
    → Tracks fulfillment performance and potential issues.  
 
-9. **On average, how many days does delivery take?**  
+8. **On average, how many days does delivery take?**  
    → Allows comparison between estimated and actual delivery performance.  
 
-10. **Which product categories contribute the most revenue?**  
+9. **Which product categories contribute the most revenue?**  
     → Highlights categories driving the majority of business revenue.  
 
 ## 📐 Entity Relationship Diagram (ERD)  
