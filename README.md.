@@ -57,13 +57,7 @@ These are the key business questions this project answers:
 6. **Which cities generate the most sales?**  
    → Supports regional marketing and expansion decisions.  
 
-7. **What is the distribution of order statuses?**  
-   → Tracks fulfillment performance and potential issues.  
-
-8. **On average, how many days does delivery take?**  
-   → Allows comparison between estimated and actual delivery performance.  
-
-9. **Which product categories contribute the most revenue?**  
+7. **Which product categories contribute the most revenue?**  
     → Highlights categories driving the majority of business revenue.  
 
 ## 📐 Entity Relationship Diagram (ERD)  
